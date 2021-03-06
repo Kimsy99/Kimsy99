@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=kimsy.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kimsy.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kimsyyy99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kimsyyy99)
-[![Linkedin Badge](https://img.shields.io/badge/-KimShengYong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rain-chai-48370318a/)](https://www.linkedin.com/in/rain-chai-48370318a/)
 
 ## Tech Communities/Clubs 👥
 
