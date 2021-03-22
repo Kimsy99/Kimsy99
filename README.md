@@ -30,9 +30,10 @@
 
 ## Technologies
 
-- Front-end development - **Reactjs, Gatsbyjs, Vuejs, Sveltejs**
-- Backend development - **Expressjs, Keystonejs, JSP**
+- Front-end development - **ReactJS, NextJS, GatsbyJS, VueJS, SvelteJS**
+- Backend development - **Expressjs, Keystonejs, JSP, GraphQL, RESTAPI**
 - Database - **MySQL, MongoDB**
+- Data Science & Engineering - **Pandas, Numpy, Matplotlib, Plotly, scikit-learn, Tensorflow**
 - Mobile App Development - **Flutter (beginner)**
 - Game Development - **Unity**
 - UI Design - **Figma**
