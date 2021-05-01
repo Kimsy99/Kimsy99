@@ -9,6 +9,7 @@
 - Lead of [Developer Student Club XMUM](https://dsc.community.dev/xiamen-university-malaysia-campus/)
 - Tech Team of [DSC Malaysia](https://github.com/dscmalaysia)
 - [Data Analytics Consulting Network]() Student Ambassador
+- Contract/Freelance Web Developer
 
 ---
 
