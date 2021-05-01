@@ -22,9 +22,10 @@
 
 - Javascript (Proficient)
 - Python (Proficient)
-- C++ (Proficient)
+- C & C++ (Proficient)
 - C# (Novice)
 - Java (Novice)
+- Dart (Novice)
 
 ---
 
@@ -34,7 +35,7 @@
 - Backend development - **Expressjs, Keystonejs, JSP, GraphQL, RESTAPI**
 - Database - **MySQL, MongoDB**
 - Data Science & Engineering - **Pandas, Numpy, Matplotlib, Plotly, scikit-learn, Tensorflow**
-- Mobile App Development - **Flutter (beginner)**
+- Mobile App Development - **React Native, Flutter (beginner)**
 - Game Development - **Unity**
 - UI Design - **Figma**
 - Competitive Progamming - **C++**
