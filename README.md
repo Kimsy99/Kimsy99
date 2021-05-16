@@ -27,6 +27,7 @@
 - C# (Novice)
 - Java (Novice)
 - Dart (Novice)
+- Solidity (Beginner)
 
 ---
 
@@ -48,5 +49,6 @@
 - Learn more backend stuff
 - Explore the world of Flutter. (Flutter 2.0 seems quite cool)
 - Explore Data Science and Data Engineering
+- Recently explored the world of Blockchain and crypto and it is facinating!!
 
 ![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimsy99&show_icons=true&theme=radical)
