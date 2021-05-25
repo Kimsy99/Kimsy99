@@ -1,6 +1,6 @@
 ### Hi there, I'm Kim - Software Engineering Student from Xiamen University Malaysia👋
 
-[![Website](https://img.shields.io/website?label=kimsy.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://kimsy.netlify.app/)
+[![Website](https://img.shields.io/website?label=kimsy.netlify.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://sykim.me/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/kimsyyy99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kimsyyy99)
 
 ## Tech Communities/Clubs 👥
