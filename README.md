@@ -32,15 +32,19 @@
 ---
 
 ## Technologies
-
+- Programming Languages - **Javascript, Typescript, Python, C++, SQL, Java, Kotlin, Dart, Swift, Ruby**
 - Front-end development - **ReactJS, NextJS, GatsbyJS, VueJS, SvelteJS**
-- Backend development - **Expressjs, Keystonejs, JSP, GraphQL, RESTAPI**
-- Database - **MySQL, MongoDB**
+- Backend development - **NodeJS, Expressjs, Keystonejs, JSP, Ruby on Rails,GraphQL, REST-API**
+- Testing - **Jest, Mocha, Chai, React-testing-library, Cypress**
+- Database - **MySQL, PostgreSQL, MongoDB, SQLite**
+- Tools - **Firebase, Hadoop**
+- Cloud - **GCP, Digital Ocean, AWS**
 - Data Science & Engineering - **Pandas, Numpy, Matplotlib, Plotly, scikit-learn, Tensorflow**
 - Mobile App Development - **React Native, Flutter (beginner)**
 - Game Development - **Unity**
 - UI Design - **Figma**
-- Competitive Progamming - **C++**
+- Competitive Progamming - **C++, Python**
+- Blockchain - **Solidity, Ethereum**
 
 ---
 
