@@ -5,11 +5,10 @@
 
 ## Tech Communities/Clubs 👥
 
-- Founder & Lead of [XMUM Tech Club](https://www.facebook.com/XMUM-Tech-Club-103757291446819/)
-- Lead of [Developer Student Club XMUM](https://dsc.community.dev/xiamen-university-malaysia-campus/)
-- Tech Team of [DSC Malaysia](https://github.com/dscmalaysia)
-- [Data Analytics Consulting Network]() Student Ambassador
-- Contract/Freelance Web Developer
+- Contract/Freelance Web Developer/Software Engineer
+- Founder & Ex-Lead of [XMUM Tech Club](https://www.facebook.com/XMUM-Tech-Club-103757291446819/)
+- Founder & Ex-Lead of [Developer Student Club XMUM](https://dsc.community.dev/xiamen-university-malaysia-campus/)
+
 
 ---
 
