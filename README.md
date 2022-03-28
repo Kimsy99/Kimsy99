@@ -5,7 +5,7 @@
 
 ## Work
 
-- Product Management Intern
+- Product Management Intern [@CoinGecko](https://www.coingecko.com)
 - Contract/Freelance Web Developer/Software Engineer
 
 
