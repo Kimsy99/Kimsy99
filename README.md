@@ -1,7 +1,7 @@
 ### Hi there, I'm Kim - Software Engineering Student from Xiamen University Malaysia👋
 
 [![Website](https://img.shields.io/website?label=sykim.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sykim.me/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kimsyyy99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kimsyyy99)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sykim_99?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sykim_99)
 
 ## Work
 
