@@ -12,6 +12,7 @@
 
 ## Tech Communities/Clubs 👥
 
+- Organizing Team of [ETHKL](https://twitter.com/ethkl1)
 - Founder & Ex-Lead of [XMUM Tech Club](https://www.facebook.com/XMUM-Tech-Club-103757291446819/)
 - Founder & Ex-Lead of [Developer Student Club XMUM](https://dsc.community.dev/xiamen-university-malaysia-campus/)
 
@@ -40,8 +41,8 @@
 
 ## Technologies
 - Programming Languages - **Javascript, Typescript, Python, C++, SQL, Java, Kotlin, Dart, Swift, Ruby**
-- Front-end development - **ReactJS, NextJS, GatsbyJS, VueJS, SvelteJS**
-- Backend development - **NodeJS, Expressjs, Keystonejs, JSP, Ruby on Rails,GraphQL, REST-API**
+- Front-end development - **ReactJS, NextJS, RemixJS, GatsbyJS, VueJS, SvelteJS**
+- Backend development - **NodeJS, Expressjs, Keystonejs, JSP, GraphQL, REST-API**
 - Testing - **Jest, Mocha, Chai, React-testing-library, Cypress**
 - Database - **MySQL, PostgreSQL, MongoDB, SQLite**
 - Tools - **Firebase, Hadoop**
